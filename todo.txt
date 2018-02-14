@@ -1,0 +1,10 @@
+todo:
+  - restrict names that can be used (no blank names) and make names editable in db.
+  - take user input for week and display games for that week.
+      1. all weeks should have same players, and players choices should only show for weeks they've made choices for. (complete)
+      2. creating/editing/deleting a player in db should not change the week. (complete)
+  - compute losers for a week given a a "result player"(decently complete)
+  - make default page in case there is a problem with a week
+  - make change place of submit button for player and add batch submit functionality
+
+args for shell script: (1) and nextWeek and prevWeek(complete)
